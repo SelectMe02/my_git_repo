@@ -3,6 +3,6 @@
 
 void print_hello()
 {
-    printf("Hello\n");
+    printf("Hello from new feature branch!\n");
 }
 
