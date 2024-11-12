@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "funcs.h"
 
-void main()
+int main(void)
 {
     print_hello();
     print_world();
