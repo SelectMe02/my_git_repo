@@ -3,5 +3,5 @@
 
 void print_world()
 {
-    printf("World\n");
+    printf("the World is beautiful!\n");
 }
